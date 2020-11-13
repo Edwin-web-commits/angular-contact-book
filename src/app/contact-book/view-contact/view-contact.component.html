@@ -1,0 +1,26 @@
+
+
+<h2 style="background-color: #5bc0de;">Contact Details</h2> 
+
+<hr/>
+<!--<div *ngIf="employee"> -->
+     
+<div >
+  <div>
+    <label><b>First Name: </b></label> {{contact.firstName}}
+  </div>
+  <div>
+    <label><b>Last Name: </b></label> {{contact.lastName}}
+  </div>
+  <div>
+    <label><b>Email Id: </b></label> {{contact.email}}
+  </div>  
+  <div>
+    <label><b>Contacts: </b></label> {{contact.contacts}}
+  </div> 
+</div>
+
+<br>
+<br>
+<button (click)="contactList()" class="btn btn-info">Back to Contacts Page</button><br>
+

@@ -1,0 +1,98 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Tshepo",
+      "lastName": "Motlokwaaaa",
+      "email": "tshepomoropane@gmail.com",
+      "contacts": "0637766700"
+    },
+    {
+      "id": 8,
+      "firstName": "Plaxidia",
+      "lastName": "Hove",
+      "email": "ppatriia555@gmail.com",
+      "contacts": "+7656556502"
+    },
+    {
+      "id": 43,
+      "firstName": "Moropane",
+      "lastName": "Motlokwa",
+      "email": "edwinmoropane@gmail.com",
+      "contacts": "+76565564554"
+    },
+    {
+      "id": 58,
+      "firstName": "Ebernezer",
+      "lastName": "Khoza",
+      "email": "merlet.valentin@gmail.com",
+      "contacts": "00000000000"
+    },
+    {
+      "id": 95,
+      "firstName": "Moropane",
+      "lastName": "Motlokwa",
+      "email": "edwinmoropane@gmail.com",
+      "contacts": "+76565564554"
+    },
+    {
+      "id": 81,
+      "firstName": "Kholo",
+      "lastName": "Jacobs",
+      "email": "kholojacobs@gmail.com",
+      "contacts": "89766446766"
+    },
+    {
+      "id": 67,
+      "firstName": "Sipho",
+      "lastName": "Zitha",
+      "email": "merlet.valentin@gmail.com",
+      "contacts": "86755554432"
+    },
+    {
+      "id": 30,
+      "firstName": "Hamilton",
+      "lastName": "Hove",
+      "email": "hamiltonhove@gmail.com",
+      "contacts": "+26309977767"
+    },
+    {
+      "id": 83,
+      "firstName": "Moropane",
+      "lastName": "Motlokwa",
+      "email": "edwinmoropane@gmail.com",
+      "contacts": "0790087877"
+    },
+    {
+      "id": 65,
+      "firstName": "Love",
+      "lastName": "Doctors",
+      "email": "lovedoctor@gmail.com",
+      "contacts": "8765433490"
+    },
+    {
+      "id": 62,
+      "firstName": "Mandiza",
+      "lastName": "Mhlongo",
+      "email": "edwinmoropane@gmail.com",
+      "contacts": "09377626763"
+    },
+    {
+      "id": 56,
+      "firstName": "Moropane",
+      "lastName": "Motlokwa",
+      "email": "edwinmoropane@gmail.com",
+      "contacts": "+76565564554"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
