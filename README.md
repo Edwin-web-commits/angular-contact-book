@@ -8,7 +8,9 @@
 
 
   3.1.  Navigate to contact-list/src/assets/data
+  
   3.2.  Run json-server --watch .\db.json 
+  
   3.3.  Open another terminal and run ng serve
   
 4. The app is hosted on firebase on this link:   contact-list-2913c.web.app
