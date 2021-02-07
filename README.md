@@ -2,7 +2,7 @@
 
 
 1.This is a contact book with all Angular CRUD functionality(Create,Read,Update and Delete). It also has a user authentication page.
-2.Technologies used : Angular 10, Typescript,Bootstrap,HTML,CSS,Mock Rest Api JSON server and firabase
+2.Technologies used : Angular 10, Typescript,Bootstrap,HTML,CSS,Mock Rest Api JSON server and firabase.
 
 3: To run this app you must open the source code with Visual Studio Code and then:
 
